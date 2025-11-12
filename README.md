@@ -1,5 +1,4 @@
-# 
-Package Delivery Game
+# Package Delivery Game
 Navigate your delivery car using the arrow keys to pick up and deliver packages across the map.
 
 Squares represent packages—drive over them to collect them.
