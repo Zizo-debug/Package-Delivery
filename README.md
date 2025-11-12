@@ -7,3 +7,5 @@ Black dots slow down the car.
 Deliver packages to the marked house shown on the map.
 
 Avoid obstacles, make timely deliveries, and become the fastest courier in town.
+
+Play here: https://zizo-shahzaib.itch.io/package-delivery
